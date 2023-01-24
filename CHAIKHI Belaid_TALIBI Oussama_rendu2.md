@@ -1,6 +1,6 @@
 Ce travail est réalisé par : <br/>
 - Belaid CHAIKHI
-- Oussama TALIBI
+- Oussama TALIBY
 <br/>
 
 # Partie 1 : Anagramme
